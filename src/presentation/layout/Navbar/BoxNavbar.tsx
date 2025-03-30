@@ -27,7 +27,7 @@ export default function BoxNavbar() {
         </div>
       </div>
 
-      <div className="flex gap-x-4">
+      <div className="flex gap-x-5">
         <p className="hidden lg:block font-medium text-[#36485C] pr-[56px]">
           Open an Account
         </p>
