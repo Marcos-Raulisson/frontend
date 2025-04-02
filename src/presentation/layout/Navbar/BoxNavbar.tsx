@@ -5,7 +5,7 @@ import Link from "next/link";
 import User from "@/src/presentation/layout/Navbar/assets/user.svg";
 import Menu from "@/src/presentation/layout/Navbar/assets/menu.svg";
 
-export default function BoxNavbar() {
+export function BoxNavbar() {
   return (
     <nav className="flex w-full items-center justify-between px-[20px] py-[16px] lg:container lg:mx-auto lg:px-20">
       <div className="flex items-center">

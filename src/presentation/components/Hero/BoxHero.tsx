@@ -8,7 +8,7 @@ import Trustpilot from "@/src/presentation/components/Hero/assets/Trustpilot.svg
 import CNN from "@/src/presentation/components/Hero/assets/CNN logo.svg";
 import Clutch from "@/src/presentation/components/Hero/assets/Clutch.svg";
 
-export default function BoxHero() {
+export function BoxHero() {
   return (
     <section className="pt-4 lg:pt-10">
       <div className="px-5 lg:px-[280px]">
